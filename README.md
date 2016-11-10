@@ -1,6 +1,7 @@
-## Inhuman [![Build Status](https://travis-ci.org/umayr/inhuman.svg?branch=master)](https://travis-ci.org/umayr/inhuman)
+## Inhuman
 > tiny package to dehumanize humanized timestamps. 
 
+[![Build Status](https://travis-ci.org/umayr/inhuman.svg?branch=master)](https://travis-ci.org/umayr/inhuman) [![Go Report Card](https://goreportcard.com/badge/github.com/umayr/inhuman)](https://goreportcard.com/report/github.com/umayr/inhuman) [![Go Cover](http://gocover.io/_badge/github.com/umayr/inhuman)](http://gocover.io/github.com/umayr/inhuman) [![GoDoc](https://godoc.org/github.com/umayr/inhuman?status.svg)](https://godoc.org/github.com/umayr/inhuman)
 ### Install
 
 ```
