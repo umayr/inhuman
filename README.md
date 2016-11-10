@@ -1,4 +1,4 @@
-## Inhuman
+## Inhuman [![Build Status](https://travis-ci.org/umayr/inhuman.svg?branch=master)](https://travis-ci.org/umayr/inhuman)
 > tiny package to dehumanize humanized timestamps. 
 
 ### Install
